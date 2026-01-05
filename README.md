@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saicharandev
 - 👀 I’m interested in SPA/PWA/Hybrid Applications.
 - 🌱 I’m currently learning Full stack and Mobile development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any UI and nodejs backend applications for both web and mobile.
 - 📫 How to reach me saicharandev498@gmail.com.
 
 <!---
